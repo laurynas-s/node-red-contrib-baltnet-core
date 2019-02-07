@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/laurynas-s/node-red-contribut-baltnet-core.git"
+    "url": "https://github.com/laurynas-s/node-red-contrib-baltnet-core.git"
   },
   "dependencies": {
     "axios": "^0.18.0",
