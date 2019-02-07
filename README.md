@@ -32,7 +32,7 @@ baltnetCore.getBalance(apiKey, login)
 
 |   Function    |   Description                             |
 | ------------- | ----------------------------------------- |
-|  getBalance   | Retrieves your account credit balance     |
+| getBalance    | Retrieves your account credit balance     |
 |               | `apiKey` - your api key                   |
 |               | `login` - your login                      |
 | sendSms       | Send SMS to phone number                  |
