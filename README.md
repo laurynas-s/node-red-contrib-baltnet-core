@@ -1,4 +1,4 @@
-# node-red-contribut-baltnet-core
+# node-red-contrib-baltnet-core
 
 This project implements several functions for sms.baltneta.lt API
 
