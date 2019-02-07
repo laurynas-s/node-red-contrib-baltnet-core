@@ -1,5 +1,5 @@
 {
-  "name": "baltnetcore",
+  "name": "node-red-contribut-baltnet-core",
   "version": "0.1.0",
   "description": "",
   "main": "smsBaltnetCore.js",
